@@ -3,7 +3,7 @@ Amplify.configure({
     Storage: {
         AWSS3: {
             bucket: "minhducsprojects ", // Replace with your actual bucket name
-            region: "ca-central-1", // e.g., "us-east-1"
+            region: "us-east-2", // e.g., "us-east-1"
         }
     }
 });
